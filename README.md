@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in COBOL related to data type handling within a conditional statement.  The code contains a comparison between a numeric variable and an alphanumeric variable, resulting in potential unexpected behavior. The solution demonstrates how to correct this issue by explicitly ensuring that data types are compatible before the comparison.
